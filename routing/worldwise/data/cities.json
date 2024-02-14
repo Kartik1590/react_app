@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Conca de Dalt",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-25T15:04:01.264Z",
+      "notes": "nice city",
+      "position": {
+        "lat": "42.26298608143189",
+        "lng": "1.1367814070439988"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Jalna",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-25T15:05:12.653Z",
+      "notes": "solid hai bhai ",
+      "position": {
+        "lat": "19.82405065262421",
+        "lng": "75.84960937500001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Sohna",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-25T15:08:13.264Z",
+      "notes": "sahi hai",
+      "position": {
+        "lat": "28.386920579589706",
+        "lng": "77.08007812500001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Marrakesh",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-01-25T19:01:48.162Z",
+      "notes": "Beautiful 😘",
+      "position": {
+        "lat": "31.630501511802226",
+        "lng": "-7.992553710937501"
+      },
+      "id": 98443201
+    }
+  ]
+}
